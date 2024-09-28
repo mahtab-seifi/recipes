@@ -1,0 +1,14 @@
+nav img{
+    width: 30px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0%;
+    background-color: white;
+    padding: 10px;
+    border-top: 1px solid #ff9800;
+    width: 100%;
+    
+}
